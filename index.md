@@ -3,24 +3,24 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+I am PhD student at Korea University, South Korea
+I am Researcher at Digital Forensic Research Center, Korea Universtiy, South Korea
 
 <br/>
 
 # Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* DFRC | Researcher (2022.03 ~ )
+  * am a senior researcher
+* WINS Co., Ltd. | Intership Developer (2021.07 ~ 2021.12)
+  * had developed a malwalre analysis solution
+* KITRI BoB Program | Student (2020.07 ~ 2021.03)
+  * was participated in digital forensic track
+  * was a project manager of Dodami team which had analyzed AIS devices
+  * am one of the BEST10 students in 9th program
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+* Cybersecurity 🛡️
+* Digital Forensics 🎓
+* Software Development 🛠️
